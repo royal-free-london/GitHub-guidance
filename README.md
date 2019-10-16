@@ -1,5 +1,5 @@
 # GitHub-guidance
-_Guidance and best practice rules for using GitHub for Royal Free Analytics (adapted from the Transforming Publishing team NHSNSS)_
+_Guidance and best practice rules for using GitHub for Royal Free Analytics and Information (adapted from the Transforming Publishing team NHSNSS)_
 
 ## Contents
 - [Set up](#set-up)
